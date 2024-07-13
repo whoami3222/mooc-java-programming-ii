@@ -108,6 +108,58 @@ checksum = "263f5d4917edfcaf00c95c4c873e35e4"
 id = 87720
 checksum = "1eead9dbee0f1f03e1debb976847298d"
 
+[exercises."part11-Part11_01.Customer"]
+id = 87738
+checksum = "aae56493ee5226e4a760bdcfea5fd658"
+
+[exercises."part11-Part11_02.ABookAndAPlane"]
+id = 87739
+checksum = "a6497e6628fa0219c718ee893d282dd1"
+
+[exercises."part11-Part11_03.ShowAndTicket"]
+id = 87740
+checksum = "a796a368861889d060ea3b1e69c1c058"
+
+[exercises."part11-Part11_04.StudentAndUniversity"]
+id = 87741
+checksum = "6e76bdab2095be8d02a1b603c54061df"
+
+[exercises."part11-Part11_05.ThePlayerAndTheBot"]
+id = 87742
+checksum = "efd1177efee4cfc9a4ca6c665f0858ee"
+
+[exercises."part11-Part11_06.SaveablePerson"]
+id = 87743
+checksum = "6be4be28d0bcd3e4c10e6fa8e9888e40"
+
+[exercises."part11-Part11_07.BiggerClassDiagram"]
+id = 87744
+checksum = "8285b18d1110c94fae521aebaf9a5828"
+
+[exercises."part11-Part11_08.FirstPackages"]
+id = 87745
+checksum = "7d45f54869c8c5d19a39459e0a7677cc"
+
+[exercises."part11-Part11_09.TheThreePackages"]
+id = 87746
+checksum = "80dacf2798bbc4ca663bb53a3329ead1"
+
+[exercises."part11-Part11_10.FlightControl"]
+id = 87747
+checksum = "2c9c2067f1f3e9f7c1eea46e8936bddf"
+
+[exercises."part11-Part11_11.ValidatingParameters"]
+id = 87748
+checksum = "59de4473d46a5d3983553a12f7d11fba"
+
+[exercises."part11-Part11_12.SensorsAndTemperature"]
+id = 87749
+checksum = "3d99c815b692e1ef313e022c08f86ecc"
+
+[exercises."part11-Part11_13.SaveableDictionary"]
+id = 87750
+checksum = "b269adc6891e3bfecf661bc878856a99"
+
 [exercises."part12-Part12_01.Hideout"]
 id = 87751
 checksum = "956c8df982aec6b035b78d9e0d68cc64"
