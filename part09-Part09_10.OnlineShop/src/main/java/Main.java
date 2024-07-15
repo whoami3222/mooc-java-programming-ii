@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 
 public class Main {
 
@@ -6,18 +6,14 @@ public class Main {
         // Test your app here
 
         Warehouse warehouse = new Warehouse();
-        warehouse.addProduct("coffee", 5, 1);
+        warehouse.addProduct("coffee", 5, 10);
+        warehouse.addProduct("milk", 3, 20);
+        warehouse.addProduct("cream", 2, 55);
+        warehouse.addProduct("bread", 7, 8);
 
-        System.out.println("stock:");
-        System.out.println("coffee:  " + warehouse.stock("coffee"));
-        System.out.println("sugar: " + warehouse.stock("sugar"));
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.println("taking coffee " + warehouse.take("coffee"));
-        System.out.println("taking coffee " + warehouse.take("coffee"));
-        System.out.println("taking sugar " + warehouse.take("sugar"));
-
-        System.out.println("stock:");
-        System.out.println("coffee:  " + warehouse.stock("coffee"));
-        System.out.println("sugar: " + warehouse.stock("sugar"));
+        Store store = new Store(warehouse, scanner);
+        store.shop("John");
     }
 }
