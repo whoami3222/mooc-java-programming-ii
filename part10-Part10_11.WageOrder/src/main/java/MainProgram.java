@@ -11,7 +11,7 @@ public class MainProgram {
         humans.add(new Human("Pertti", 80));
 
         System.out.println(humans);
-
+        
         /*
          * Uncomment the comment below when you have completed the compareTo-method.
          */
